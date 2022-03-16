@@ -1,1 +1,1 @@
-To use, lauch GUI and follow instructions
+To use, launch GUI and follow instructions
